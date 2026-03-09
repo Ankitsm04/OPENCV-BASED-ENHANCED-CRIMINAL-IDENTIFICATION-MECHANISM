@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Capstone%20Implementation/Project%20Folder/frontend/app/components/Navbar.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport Link from \"next/link\";\r\n\r\nexport default function Navbar() {\r\n  return (\r\n    <nav className=\"bg-gray-900 text-white px-6 py-4 shadow-md\">\r\n      <div className=\"flex justify-between items-center\">\r\n        <h1 className=\"text-xl font-bold\">IdentityMatch AI</h1>\r\n        <div className=\"space-x-6\">\r\n          <Link href=\"/\">Home</Link>\r\n          <Link href=\"/dataset\">Dataset</Link>\r\n          <Link href=\"/training\">Training</Link>\r\n          <Link href=\"/prediction\">Prediction</Link>\r\n          <Link href=\"/ethics\">Ethics</Link>\r\n        </div>\r\n      </div>\r\n    </nav>\r\n  );\r\n}"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAG,WAAU;8BAAoB;;;;;;8BAClC,8OAAC;oBAAI,WAAU;;sCACb,8OAAC,uKAAI;4BAAC,MAAK;sCAAI;;;;;;sCACf,8OAAC,uKAAI;4BAAC,MAAK;sCAAW;;;;;;sCACtB,8OAAC,uKAAI;4BAAC,MAAK;sCAAY;;;;;;sCACvB,8OAAC,uKAAI;4BAAC,MAAK;sCAAc;;;;;;sCACzB,8OAAC,uKAAI;4BAAC,MAAK;sCAAU;;;;;;;;;;;;;;;;;;;;;;;AAK/B"}}]
+}

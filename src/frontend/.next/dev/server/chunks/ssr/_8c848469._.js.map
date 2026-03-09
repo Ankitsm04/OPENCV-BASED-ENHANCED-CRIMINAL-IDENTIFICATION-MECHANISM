@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Capstone%20Implementation/Project%20Folder/frontend/app/layout.tsx"],"sourcesContent":["import \"./globals.css\";\nimport Navbar from \"@/components/Navbar\";\n\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return (\n    <html lang=\"en\">\n      <body className=\"bg-gray-100\">\n        <Navbar />\n        <main className=\"p-8\">{children}</main>\n      </body>\n    </html>\n  );\n}"],"names":[],"mappings":";;;;;;;;;;;;;AAGe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,8OAAC;QAAK,MAAK;kBACT,cAAA,8OAAC;YAAK,WAAU;;8BACd,8OAAC;;;;;8BACD,8OAAC;oBAAK,WAAU;8BAAO;;;;;;;;;;;;;;;;;AAI/B"}},
+    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file:///C:/Capstone%20Implementation/Project%20Folder/frontend/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

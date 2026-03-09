@@ -194,10 +194,10 @@ Proper deployment should include:
 
 # Project Authors
 
-**Ankit Mathapati**
-**Shyambabu Arem**
-**Manjunatha G**
-**Sonali N**
+* Ankit Mathapati
+* Shyambabu Arem
+* Manjunatha G
+* Sonali N
 
 B.Tech Computer Science – 4th Year
 
